@@ -1,7 +1,19 @@
-# bloc_pattern_hc_basic
+# Flutter Rating App
+
+Using BLoC Pattern
+
 
 A new Flutter project.
 
+So Now a Question arises what is BLOC Pattern ??
+
+BLoC stands for Business LOGIC Component.
+There are Three Main Concepts of this pattern :
+    1. StreamController
+    2.Sink (To add data in the Pipe)
+    3.Stream (To get Data from Pipe)
+    
+   
 ## Getting Started
 
 This project is a starting point for a Flutter application.
